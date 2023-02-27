@@ -2,3 +2,7 @@ Belaljar branch
 
 mencoba untuk belajar github dengan baik dan benar
 tidak membuang waktu ketika sedang belajar
+
+
+Habis itu saya ingin mencoba untuk belajar php lebih dalam lagi
+mungkin saya akan emncoba untuk mempelajri framework
