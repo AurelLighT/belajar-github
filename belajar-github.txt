@@ -1,0 +1,11 @@
+Belajar Github
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Sed faucibus magna id ipsum dictum, vel tincidunt tellus pretium. Fusce ac posuere odio. 
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Suspendisse vel sem ut mauris sagittis finibus nec a lorem. Vestibulum eleifend mi quis magna laoreet,
+nec feugiat enim consectetur. In ultricies, arcu a convallis eleifend, sapien elit tempor elit, id males
+uada mauris eros in nisl. Duis vel quam sapien. Nam ac nunc convallis, imperdiet leo vitae, vehicula lorem
+. Sed fermentum velit vel magna vulputate, in facilisis leo tristique. Donec convallis, lorem sit amet 
+r laoreet, sapien ex venenatis nisl, in tincidunt orci ex eu odio. Sed id convallis sapien, in maximus nisi. S
+ed bibendum arcu ac nisl sagittis auctor. Duis bibendum, elit quis aliquet dapibus, ipsum velit rutrum urna, no
+n gravida sapien purus a mi. Nam vitae est pharetra, imperdiet nunc in, ultrices mauris.
